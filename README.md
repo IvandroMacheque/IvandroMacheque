@@ -1,6 +1,8 @@
 ## Ivandro Macheque aqui :)
 
-Analista de Dados, especializado em análise, organização e transformação de dados para geração de insights e apoio à tomada de decisão. Utilizo automação e web scraping como ferramentas complementares para otimizar processos e resultados.
+Cientista de Dados | Python | ML | Streamlit | Automação | Web Scraping
+
+Cientista de Dados com domínio em Machine Learning supervisionado e criação de aplicações interativas com Streamlit para previsão. Especializado em análise exploratória, transformação e visualização com Pandas, Seaborn e Matplotlib, como também visualização interativa com Power BI, além de automação de processos com Python e web scraping para extração de dados personalizados. Integro dados de diversas fontes, otimizando fluxos com foco em insights e tomada de decisão.
 
 - 👨🏽‍💻 Aprendizagem flexível
 - 🥊 Apaixonado por **Boxe**
@@ -8,6 +10,8 @@ Analista de Dados, especializado em análise, organização e transformação de
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />&nbsp;&nbsp;
+          
 </div>          
 
 ## 
