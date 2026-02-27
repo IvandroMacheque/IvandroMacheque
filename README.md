@@ -1,8 +1,10 @@
 ## Ivandro Macheque aqui :)
 
-Cientista de Dados | Python | ML | Streamlit | Automação | Web Scraping
+Desenvolvedor Full Stack com ênfase em Backend | Node.js | React | PostgreSQL
 
-Cientista de Dados com domínio em Machine Learning supervisionado e criação de aplicações interativas com Streamlit para previsão. Especializado em análise exploratória, transformação e visualização com Pandas, Seaborn e Matplotlib, como também visualização interativa com Power BI, além de automação de processos com Python e web scraping para extração de dados personalizados. Integro dados de diversas fontes, otimizando fluxos com foco em insights e tomada de decisão.
+Desenvolvedor com foco em backend e arquitetura de APIs, criando aplicações seguras e estruturadas com Node.js, Express e PostgreSQL. Experiência em autenticação com JWT (Access e Refresh Token), controle de sessão com cookies HttpOnly e modelagem relacional utilizando Prisma ORM.
+No frontend, desenvolvo aplicações com React, proteção de rotas privadas e integração via Axios com interceptadores. Complemento técnico em Python para automação e manipulação de dados.
+Interesse em escalabilidade, segurança e boas práticas de engenharia de software.
 
 - ✅️ Resolução de Problemas
 - 🧠 Pensamento Crítico 
