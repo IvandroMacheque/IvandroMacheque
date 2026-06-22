@@ -26,6 +26,6 @@ Interesse em escalabilidade, segurança e boas práticas de engenharia de softwa
 &nbsp;<a href="https://www.linkedin.com/in/ivandro-macheque-869526363/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/ivan.lucas06?igsh=N2s0OWZ6b3Mxdjk3">
+&nbsp;<a href="https://www.instagram.com/ivandro.macheque/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
