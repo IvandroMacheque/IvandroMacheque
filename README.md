@@ -33,14 +33,13 @@ Se estás a avaliar o meu perfil técnico, podes explorar o meu trabalho real at
 
 Para demonstrar práticas avançadas de engenharia sem violar o sigilo de projetos comerciais, construí e documentei publicamente:
 
-* **[LedgerFlow — Distributed Financial Ledger & Chaos Playground](https://github.com/SEU-USUARIO-GITHUB/ledgerflow)**  
+* **[LedgerFlow — Distributed Financial Ledger & Chaos Playground](https://github.com/IvandroMacheque/LedgerFlow.git)**  
   Motor de pagamentos multi-tenant em Monorepo (`server/` + `web/`) desenhado sob **Clean Architecture** e **SOLID**. Inclui:
   * **Segurança & Isolamento:** Proteção estrita contra BOLA/IDOR na camada de dados, validação de contratos com Zod e sanitização de erros.
   * **Confiabilidade & Concorrência:** Prevenção de condições de corrida (*Race Conditions*), chaves de idempotência e retentativas com *Backoff Exponencial + Jitter*.
   * **Arquitetura Assíncrona & Observabilidade:** Padrão *Transactional Outbox* com workers assíncronos, consumidores idempotentes, rastreamento via `AsyncLocalStorage` (`correlationId`), métricas RED e documentação de *Post-Mortems* e *ADRs*.
   * **Qualidade Verificada:** Suíte de testes rigorosa validada com **>86% de Mutation Score (Stryker Mutator)**.
 
-*(Substitui `SEU-USUARIO-GITHUB/ledgerflow` pelo link exato do teu repositório assim que o tornares público).*
 
 ---
 
