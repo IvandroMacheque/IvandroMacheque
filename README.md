@@ -1,6 +1,6 @@
 # Olá, eu sou o Ivandro Macheque 👋
 
-**Software Engineer (Backend & Systems Architecture) | Automação de Processos & Produtos SaaS**
+**Software Engineer (Backend & Systems Architecture) | Automação de Processos & Análise de Dados**
 
 Engenheiro de software focado no desenho e construção de arquiteturas backend resilientes, APIs seguras de alta confiabilidade e automação de processos de negócio. Trabalho com foco em integridade transacional, sistemas distribuídos, observabilidade e governança rigorosa de qualidade de código.
 
