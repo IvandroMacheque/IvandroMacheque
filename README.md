@@ -29,7 +29,7 @@ Se estás a avaliar o meu perfil técnico, podes explorar o meu trabalho real at
 
 ---
 
-### 🛡️ Vitrine de Engenharia Open-Source (Destaque Técnico)
+### 🛡️ Vitrine de Engenharia Open-Source
 
 Para demonstrar práticas avançadas de engenharia sem violar o sigilo de projetos comerciais, construí e documentei publicamente:
 
