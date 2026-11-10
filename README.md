@@ -14,7 +14,7 @@ Grande parte do código que escrevo diariamente encontra-se em **repositórios p
 
 Se estás a avaliar o meu perfil técnico, podes explorar o meu trabalho real através destas três frentes:
 
-* 💼 **[Macheque Labs (machequelabs.com)](https://machequelabs.com)** — *Agência de Engenharia de Software & Automação.* É onde desenvolvo sistemas sob medida e automações para clientes comerciais. **Acede ao site para veres a demonstração visual e os detalhes dos problemas reais resolvidos em cada projeto.**
+* 💼 **[Macheque Labs (machequelabs.com)](https://machequelabs.com/projetos)** — *Agência de Engenharia de Software & Automação.* É onde desenvolvo sistemas sob medida e automações para clientes comerciais. **Acede ao site para veres a demonstração visual e os detalhes dos problemas reais resolvidos em cada projeto.**
 * ⚡ **[Ória (oriahq.com)](https://oriahq.com)** — *Produto SaaS em Produção.* Aplicação de gestão financeira pessoal desenhada e arquitetada por mim para prever limites diários inteligentes de gastos e *runway* de fluxo de caixa.
 * 🔍 **Auditoria de Código Público (Abaixo)** — Para avaliares diretamente a minha escrita de código, testes e *System Design*, deixei o projeto **LedgerFlow** totalmente aberto nos meus repositórios em destaque (*Pinned*).
 
